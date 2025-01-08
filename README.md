@@ -1,8 +1,20 @@
-- 👋 I’m @wavejumper3
-- 👀 I’m interested in generative content (NOT modern AI stuff), or anything that suprises me :)
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on literally anything (Ask, I will respond)
-- 📫 Reach me at  (w avejum per3 @ tec h.l gbt) on mastodon, or (w avejum per3 hashtag 54 4 4) on discord (formatting to avoid automatic web scraping)
+# 👋 Hi, I'm Wavejumper3!
 
-I hope to give/find whatever help I can! If you want to ask me something publically, pull request this file, I'll read it and react.
-Thanks for visiting my small corner of the internet.
+### About Me
+- 🎓 Sophomore Computer Science major at **SJU**
+- 🌟 Currently focusing on **full-stack development and systems programming languages** 
+- ✍️ Always curious and ready to learn new things!
+
+### Languages and Tools I use
+- **With great confidence**: Python, Javascript, Java, HTML/CSS, Linux-based systems
+- **"Just give me the docs"**: C, Rust, NodeJS
+
+### My Work
+Here are some highlights of my projects:
+- [Wavejumper.be](https://github.com/wavejumper3/be) - The frontend code for my website
+- [SJU Garden Monitor Project](https://github.com/wavejumper3/SJU-Garden-Monitor) - An ongoing refactoring and modernization of an unfinished system
+- [Git-based minecraft server](https://github.com/wavejumper3/git-mc-world) - A thought experiment turned real!
+
+### 📫 Get in Touch
+- [Email](calculatorcoder42+github@gmail.com)
+- [My Website](wavejumper.be/workin.html)
